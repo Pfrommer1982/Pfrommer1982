@@ -9,7 +9,7 @@
 
 
 <a href="https://www.linkedin.com/in/christoph-pfrommer/">
-<img align="left" alt="Christoph Pfrommer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Christoph Pfrommer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/#0A66C2" />
 </a>
 
 
