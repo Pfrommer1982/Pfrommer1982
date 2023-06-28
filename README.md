@@ -2,7 +2,11 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/christoph-pfrommer/">
-<img align="left" alt="Christoph Pfrommer" width="30px" src="![image](https://github.com/Pfrommer1982/Pfrommer1982/assets/90003610/318843a7-d288-4482-adf0-27b917d50b52)
-" />
+<a href="https://www.linkedin.com/in/christoph-pfrommer/" >
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
+<a href="https://soundcloud.com/jdam-hardcore-dnb" >
+  <img src="https://img.shields.io/badge/-SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+</a>
+
