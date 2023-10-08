@@ -1,4 +1,5 @@
-![1686936671101](https://github.com/Pfrommer1982/Pfrommer1982/assets/90003610/483a9b63-a083-4e2b-b321-ef9410cbb54b)
+
+![1008](https://github.com/Pfrommer1982/Pfrommer1982/assets/90003610/fb1fdcf1-a0cd-46e4-a555-f0bfefc9152b)
 
 ## Welcome!
 
