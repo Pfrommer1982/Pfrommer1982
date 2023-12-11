@@ -1,7 +1,7 @@
 
 ![1008](https://github.com/Pfrommer1982/Pfrommer1982/assets/90003610/fb1fdcf1-a0cd-46e4-a555-f0bfefc9152b)
 
-## Welcome!
+## Welcome to my Github profile!
 
 Hi there, I'm Christoph <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/flag-netherlands_1f1f3-1f1f1.png"  width="20px" alt="Netherlands Flag" />
  . With 20 years of experience in sales and account management in the automotive industry,
