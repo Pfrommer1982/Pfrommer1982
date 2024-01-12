@@ -25,12 +25,11 @@ When I'm not programming websites, I'm programming beats and melodies in Ableton
 </a>
 
 
-## 2023 Q3 - Q4 Goals:
+## 2024 Q1:
 
-1. ~~Get AWS Solutions Architect Associate Certified.~~ 🥇
-2. Get AWS Developer Associate Certified.
-3. Deepen knowledge React & Vue
-4. Start training for CompTIA Linux+
+1. Get AWS Developer Associate Certified.
+2. Deepen knowledge React & Vue
+3. Start training for CompTIA Linux+
 
 
 ## Knowledge:
