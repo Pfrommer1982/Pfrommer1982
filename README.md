@@ -5,9 +5,9 @@
 
 Hi there, I'm Christoph <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/flag-netherlands_1f1f3-1f1f1.png"  width="20px" alt="Netherlands Flag" />
  . With 20 years of experience in sales and account management in the automotive industry,
-I have recently transitioned to pursuing my passion for technology and web development. I love working with React and currently learning
-Vue. I also have a thing for cloud engineering, am AWS certified and addicted to learning new stuff.
-When I'm not programming websites, I'm programming beats and melodies in Ableton Live. For some work, check my soundcloud! <img src="https://em-content.zobj.net/source/skype/289/musical-note_1f3b5.png"  width="20px" alt="Skype note" />
+I have recently transitioned to pursuing my passion for technology and web development. I love working with React / Vue.
+I also have a thing for cloud engineering, am AWS certified and addicted to learning new stuff.
+When I'm not programming websites, I'm programming beats and melodies in Ableton Live. For some work, check my soundcloud! 
 
 
 ### Connect with me
