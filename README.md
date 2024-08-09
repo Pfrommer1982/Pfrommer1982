@@ -25,7 +25,7 @@ When I'm not programming websites, I'm programming beats and melodies in Ableton
 </a>
 
 
-## 2024 Q1:
+## 2024 Q3:
 
 1. Get AWS Developer Associate Certified.
 2. Deepen knowledge React & Vue
