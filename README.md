@@ -15,11 +15,9 @@ When I'm not programming websites, I'm programming beats and melodies in Ableton
 <a href="https://www.linkedin.com/in/christoph-pfrommer/" >
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:pfrommer1982@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://soundcloud.com/jdam-hardcore-dnb" >
   <img src="https://img.shields.io/badge/-SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" alt="SoundCloud" />
 </a>
