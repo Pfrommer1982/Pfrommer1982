@@ -1,47 +1,50 @@
+## Welcome to My GitHub Profile!
 
-![1008](https://github.com/Pfrommer1982/Pfrommer1982/assets/90003610/fb1fdcf1-a0cd-46e4-a555-f0bfefc9152b)
+Hi, I'm Christoph 🇳🇱
 
-## Welcome to my Github profile!
+With over 20 years of experience in sales and account management in the automotive industry, I have embarked on an exciting career shift to pursue my passion for technology and cloud engineering. As an AWS Certified Solutions Architect and Cloud Practitioner, I thrive on solving complex problems, learning new technologies, and building scalable solutions.
 
-Hi there, I'm Christoph <img src="https://em-content.zobj.net/thumbs/160/whatsapp/352/flag-netherlands_1f1f3-1f1f1.png"  width="20px" alt="Netherlands Flag" />
- . With 20 years of experience in sales and account management in the automotive industry,
-I have recently transitioned to pursuing my passion for technology and web development. I love working with React / Vue.
-I also have a thing for cloud engineering, am AWS certified and addicted to learning new stuff.
-When I'm not programming websites, I'm programming beats and melodies in Ableton Live. For some work, check my soundcloud! 
+In addition to my cloud expertise, I am deeply invested in web development, with a particular focus on modern technologies like Vue and Tailwind CSS. When I’m not creating elegant digital solutions, you can find me producing beats and melodies in Ableton Live. Check out my [SoundCloud](https://soundcloud.com/jdam-hardcore-dnb) for a taste of my work!
 
+---
 
-### Connect with me
+### Certifications & Goals
 
-<a href="https://www.linkedin.com/in/christoph-pfrommer/" >
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:pfrommer1982@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
-</a>
-<a href="https://soundcloud.com/jdam-hardcore-dnb" >
-  <img src="https://img.shields.io/badge/-SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" alt="SoundCloud" />
-</a>
+**Certifications:**
+- AWS Certified Solutions Architect
+- AWS Certified Cloud Practitioner
 
+**2024 Goals:**
+1. Achieve AWS AI/ML Practitioner Certification.
+2. Expand expertise in cloud-native services and automation.
+3. Continue advancing skills in web development, focusing on Vue and advanced JavaScript techniques.
 
-## 2024 Q3:
+---
 
-1. Get AWS Developer Associate Certified.
-2. Deepen knowledge React & Vue
-3. Start training for CompTIA Linux+
+### Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-pfrommer/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pfrommer1982@gmail.com)
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/jdam-hardcore-dnb)
 
-## Knowledge:
+---
 
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Nextjs" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Create%20React%20App-61DAFB?style=flat&logo=create-react-app&logoColor=white" alt="Create React App" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+### Technical Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### Fun Fact
+When I’m not exploring the latest in tech or expanding my cloud knowledge, I’m crafting beats and experimenting with electronic music production. Creativity flows both in code and sound!
+
+Feel free to reach out—I’m always open to connecting with like-minded professionals and tech enthusiasts.
 
