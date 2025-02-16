@@ -4,7 +4,7 @@ Hi, I'm Christoph 🇳🇱
 
 With over 20 years of experience in sales and account management in the automotive industry, I have embarked on an exciting career shift to pursue my passion for technology and cloud engineering. As an AWS Certified Solutions Architect and Cloud Practitioner, I thrive on solving complex problems, learning new technologies, and building scalable solutions.
 
-In addition to my cloud expertise, I am deeply invested in web development, with a particular focus on modern technologies like Vue and Tailwind CSS. When I’m not creating elegant digital solutions, you can find me producing beats and melodies in Ableton Live. Check out my [SoundCloud](https://soundcloud.com/jdam-hardcore-dnb) for a taste of my work!
+In addition to my cloud expertise, I am deeply invested in web development, with a particular focus on modern technologies like Vue and Tailwind CSS. When I’m not creating elegant digital solutions, you can find me producing beats and melodies in Ableton Live. Check out my [SoundCloud](https://soundcloud.com/jdam-nl) for a taste of my work!
 
 ---
 
@@ -18,7 +18,7 @@ In addition to my cloud expertise, I am deeply invested in web development, with
 **2025 Goals:**
 1. Achieve AWS ML Engineer Certification.
 2. Expand expertise in cloud-native services and automation.
-3. Continue advancing skills in web development, focusing on Vue and advanced JavaScript techniques.
+3. Continue advancing skills in web development.
 
 ---
 
@@ -40,7 +40,7 @@ In addition to my cloud expertise, I am deeply invested in web development, with
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
