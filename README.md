@@ -12,10 +12,11 @@ In addition to my cloud expertise, I am deeply invested in web development, with
 
 **Certifications:**
 - AWS Certified Solutions Architect
+- AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner
 
 **2025 Goals:**
-1. Achieve AWS AI/ML Practitioner Certification.
+1. Achieve AWS ML Engineer Certification.
 2. Expand expertise in cloud-native services and automation.
 3. Continue advancing skills in web development, focusing on Vue and advanced JavaScript techniques.
 
