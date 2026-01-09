@@ -1,6 +1,6 @@
 <!-- Profile banner with animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3AF7E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christoph+%F0%9F%87%B3%F0%9F%87%B1;AWS+Certified+%26+Vibe+Coder;Nuxt+%7C+Vue+%7C+Tailwind+CSS;Cloud+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3AF7E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christoph+%F0%9F%87%B3%F0%9F%87%B1;AWS+Certified;Nuxt+%7C+Vue+%7C+Tailwind+CSS;Cloud+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
