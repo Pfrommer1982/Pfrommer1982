@@ -1,55 +1,60 @@
-<!-- Profile banner with animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3AF7E7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christoph+%F0%9F%87%B3%F0%9F%87%B1;4%2cX%2CAWS+Certified;Nuxt+%7C+Vue+%7C+Tailwind+CSS;Cloud+%26+ML+Enthusiast" alt="Typing SVG" />
+  <strong>Christoph Pfrommer</strong><br/>
+  AWS Certified Solutions Architect · ML Engineer · Cloud Engineer
 </p>
 
 ---
 
-## 👋 Welcome to My GitHub Profile!
+### Profile
 
-Hi, I'm **Christoph** 🇳🇱  
+Cloud engineer with a strong background in **AWS architecture, machine learning, and modern web technologies**.  
+After 20+ years in sales and account management within the automotive industry, I transitioned into tech with a focus on **scalable cloud solutions, automation, and data-driven systems**.
 
-With over 20 years of experience in sales and account management in the automotive industry, I have embarked on an exciting career shift to pursue my passion for technology and cloud engineering.  
-
-✨ As an **AWS Certified Solutions Architect**, **ML Engineer**, and **AI Practitioner**, I thrive on solving complex problems, learning new technologies, and building scalable solutions.  
-
-When I’m not creating elegant digital products with **Nuxt, Vue & Tailwind CSS**, you can find me producing beats in Ableton Live. 🎶  
-👉 Check out my [SoundCloud](https://soundcloud.com/jdam-nl).
+I combine **business understanding** with **technical execution**, bridging the gap between stakeholders and engineering.
 
 ---
 
-## 🎓 Certifications & ✅ Goals  
+### Expertise
 
-**Certifications:**  
-- 🏆 AWS **ML Engineer** Certification  
-- 🏆 AWS **Solutions Architect**  
-- 🏆 AWS **AI Practitioner**  
-- 🏆 AWS **Cloud Practitioner**  
-
-**2025 Goals:**  
-- [x] Achieve **AWS ML Engineer Certification** 🎉  
-- [ ] Expand expertise in **cloud-native services & automation**  
-- [ ] Continue advancing skills in **web development (Nuxt / Vue / Tailwind)**  
+- **Cloud Architecture:** AWS, cloud-native design, cost-aware architectures  
+- **Machine Learning:** model development, deployment, MLOps fundamentals  
+- **Web Engineering:** Nuxt, Vue, Tailwind CSS  
+- **DevOps:** Docker, CI/CD, Git-based workflows  
 
 ---
 
-## 🖥️ Tech Vibes  
+### Certifications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vue,nuxt,tailwind,js,ts,html,css,docker,git,github" />
+- AWS Certified **Machine Learning Engineer**
+- AWS Certified **Solutions Architect**
+- AWS Certified **AI Practitioner**
+- AWS Certified **Cloud Practitioner**
+
+---
+
+### Current Focus
+
+- Advanced AWS services & infrastructure automation  
+- Production-ready ML pipelines  
+- Clean, maintainable front-end architectures  
+
+---
+
+### Technology Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vue,nuxt,tailwind,js,ts,docker,git" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+### Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-pfrommer/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pfrommer1982@gmail.com)  
-[![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/jdam-hardcore-dnb)  
+- **LinkedIn:** https://www.linkedin.com/in/christoph-pfrommer/  
+- **Email:** pfrommer1982@gmail.com  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pfrommer1982&show_icons=true&theme=radical" alt="Christoph's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pfrommer1982&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pfrommer1982&show_icons=true&theme=default&hide_title=true" height="150"/>
 </p>
