@@ -1,25 +1,25 @@
 <p align="center">
   <strong>Christoph Pfrommer</strong><br/>
-  AWS Certified Solutions Architect · ML Engineer · Cloud Engineer
+  Cloud & Machine Learning Engineering · AWS Certified
 </p>
 
 ---
 
 ### Profile
 
-Cloud engineer with a strong background in **AWS architecture, machine learning, and modern web technologies**.  
-After 20+ years in sales and account management within the automotive industry, I transitioned into tech with a focus on **scalable cloud solutions, automation, and data-driven systems**.
+I focus on building **clear, practical cloud and machine learning solutions**, with attention to structure, maintainability and real-world use cases.
 
-I combine **business understanding** with **technical execution**, bridging the gap between stakeholders and engineering.
+My background includes extensive experience working with complex technical products and translating them into **clear, usable solutions for both technical and non-technical stakeholders**.  
+This perspective strongly influences how I design, document and build software.
 
 ---
 
-### Expertise
+### Areas of Focus
 
-- **Cloud Architecture:** AWS, cloud-native design, cost-aware architectures  
-- **Machine Learning:** model development, deployment, MLOps fundamentals  
-- **Web Engineering:** Nuxt, Vue, Tailwind CSS  
-- **DevOps:** Docker, CI/CD, Git-based workflows  
+- Designing and deploying solutions on **AWS**
+- Developing and deploying **machine learning models**
+- Building modern front-end applications with **Nuxt, Vue & Tailwind CSS**
+- Working with **Docker, Git and CI/CD fundamentals**
 
 ---
 
@@ -32,11 +32,11 @@ I combine **business understanding** with **technical execution**, bridging the 
 
 ---
 
-### Current Focus
+### What I’m Working On
 
-- Advanced AWS services & infrastructure automation  
-- Production-ready ML pipelines  
-- Clean, maintainable front-end architectures  
+- End-to-end AWS projects with a focus on clarity and scalability  
+- Machine learning pipelines from data ingestion to inference  
+- Clean, understandable code and documentation  
 
 ---
 
@@ -51,10 +51,4 @@ I combine **business understanding** with **technical execution**, bridging the 
 ### Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/christoph-pfrommer/  
-- **Email:** pfrommer1982@gmail.com  
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pfrommer1982&show_icons=true&theme=default&hide_title=true" height="150"/>
-</p>
+- **Email:** pfrommer1982@gmail.com
